@@ -1,1 +1,1 @@
-# ShoderLandingPage
+# Landing Page for Shoder company
